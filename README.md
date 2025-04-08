@@ -1,7 +1,7 @@
-# LibStylePascal:
-- LibStylePascal - Projeto de biblioteca gráfica em Pascal Delphi.
+# Lib Camaleão:
+- Projeto de biblioteca gráfica em Pascal Delphi.
 
-# Pacote visual da Lib para Delphi 7:
+# Componente Camaleão para Delphi 7:
 - Componente_Camaleao;
 - Pacote para instalação de botões;
 - Dois pacotes foram inseridos no projeto:
