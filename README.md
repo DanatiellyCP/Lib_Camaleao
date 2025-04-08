@@ -10,12 +10,11 @@
 - Feito isso, o pacote ficará disponivel para uso;
 - Add as units do pacote em seu projeto, para poder usar.
 
-# Modelos de design:
-<img src="https://github.com/DanatiellyCP/Lib_Camaleao/blob/main/img2/Exemplos.jpg">
-
 # Dependências: 
 - TJVDotNetEdit, TJVSpeedButton, TImage.
 
+# Modelos de design:
+<img src="https://github.com/DanatiellyCP/Lib_Camaleao/blob/main/img2/Exemplos.jpg">
 
-# Modelos de Botões:
-<img src="https://github.com/DanatiellyCP/Lib_Camaleao/blob/main/img2/Bot%C3%B5es%20Modelo%20%20BS.jpg">
+
+
