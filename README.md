@@ -10,12 +10,12 @@
 - Feito isso, o pacote ficará disponivel para uso;
 - Add as units do pacote em seu projeto, para poder usar.
 
-# Pacotes instalado no Delphi 7
-<img src="LibStylePascal/img2/Pac_Instalado_delphi7.jpg">
+# Modelos de design:
+<img src="https://github.com/DanatiellyCP/Lib_Camaleao/blob/main/img2/Exemplos.jpg">
 
 # Dependências: 
 - TJVDotNetEdit, TJVSpeedButton, TImage.
 
 
-# Modelos:
-<img src="LibStylePascal/img2/Modelo s.jpg">
+# Modelos de Botões:
+<img src="https://github.com/DanatiellyCP/Lib_Camaleao/blob/main/img2/Bot%C3%B5es%20Modelo%20%20BS.jpg">
